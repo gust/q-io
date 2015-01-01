@@ -20,7 +20,7 @@
     "url": "http://github.com/kriskowal/q-io.git"
   },
   "dependencies": {
-    "collections": "^0.2.0",
+    "es6-set": "^0.1.1",
     "mime": "^1.2.11",
     "mimeparse": "^0.1.4",
     "q": "^1.0.1",
